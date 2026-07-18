@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "masterfabric-academy": {
+      "command": "npx",
+      "args": [
+        "tsx",
+        "mcp.ts"
+      ],
+      "cwd": "/Users/melihgundogan/one-hundered-days/mcp"
+    }
+  }
+}
